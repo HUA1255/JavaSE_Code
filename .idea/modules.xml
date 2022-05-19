@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/API_fundation/API_fundation.iml" filepath="$PROJECT_DIR$/API_fundation/API_fundation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArryList/ArryList.iml" filepath="$PROJECT_DIR$/ArryList/ArryList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Idea_Test01/Idea_Test01.iml" filepath="$PROJECT_DIR$/Idea_Test01/Idea_Test01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE_Code.iml" filepath="$PROJECT_DIR$/JavaSE_Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/faceClass/faceClass.iml" filepath="$PROJECT_DIR$/faceClass/faceClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myArry/myArry.iml" filepath="$PROJECT_DIR$/myArry/myArry.iml" />
+    </modules>
+  </component>
+</project>
